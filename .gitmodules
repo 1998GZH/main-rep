@@ -1,0 +1,3 @@
+[submodule "sub-rep"]
+	path = sub-rep
+	url = git@github.com:1998GZH/sub-rep.git
